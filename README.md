@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fintech
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# linear_regression_summative
+This is the summative for machine learning. it is for linear regression model
+>>>>>>> 505edece6a31f8c810984127b1634b8442cf9a55
